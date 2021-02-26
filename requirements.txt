@@ -75,7 +75,6 @@ folium==0.11.0
 fsspec==0.7.4
 future==0.18.2
 gast==0.3.3
-GDAL==3.1.4
 geeadd==0.5.3
 geehydro==0.2.0
 geemap==0.8.7
